@@ -1,18 +1,18 @@
-html{
-  font-size: 20px;
+html {
   text-align: center;
+  font-size: 20px;
 }
 
-body{
+body {
   font-family:"Arial", "Meiryo", sans-serif;
 }
 
-.h1-font{
+.h1-font {
   font-family: "Josefin Sans", sans-serif;
+  font-size: 2em;
   font-optical-sizing: auto;
   font-weight: 400;
   font-style: normal;
-  font-size: 2em;
   letter-spacing: 1.2em;
   text-shadow: 1px 1px 3px lightgray;
   border-bottom: solid;
@@ -20,11 +20,11 @@ body{
   border-width: 3px;
 }
 
-.text-skyblue{
+.text-skyblue {
   color: skyblue;
 }
 
-.text-pink{
+.text-pink {
   color: rgb(255,192,203);
 }
 
